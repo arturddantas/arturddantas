@@ -19,10 +19,10 @@ I like beach 🏖️, dogs 🐶,  videogames 🎮, and to play guitar 🎸.
 
 ### Skills
 
-[]
+- I work with the operational system Ubuntu and editing the website.
 
 -----
 
 ### Find me
 
-[]
+E-mail: arturd_96@hotmail.com
