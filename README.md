@@ -13,13 +13,14 @@ I like beach 🏖️, dogs 🐶,  videogames 🎮, and to play guitar 🎸.
 
 ### Currently
 
-- I'm currently working in an internship in the international relations laboratory at Unesp. You can visit us [here](https://labriunesp.org/)! 🙂
+- I'm currently working in an internship in the international relations laboratory at Unesp (LabRI/UNESP). You can visit us [here](https://labriunesp.org/)! 🙂
 
 -----
 
 ### Skills
 
-- I work with the operational system Ubuntu and editing the website.
+- I work with the operational system Ubuntu, editing the website and the physical structure of the laboratory.
+- Help students with the search engines for international relations.
 
 -----
 
