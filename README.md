@@ -1,6 +1,6 @@
 ## Hello! :)
 
-<p style="text-align:center;"> <img src="https://imagizer.imageshack.com/img922/7321/Hd9S36.jpg" width="430"> </p>
+<center><img src="https://imagizer.imageshack.com/img922/7321/Hd9S36.jpg" width="430"> </center>
 
 -----
 
